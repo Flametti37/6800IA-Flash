@@ -1,2 +1,2 @@
 # 6800IA-Flash
-Steps to flash a Cisco 6800IA IOS to Cisco a 2960x IOS
+Steps to reflash the IOS of a Cisco 6800IA to the IOS of a Cisco 2960X
